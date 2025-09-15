@@ -2,9 +2,9 @@
 
 ## Dependencies
 
-Download and install the latest .NET SDK v8 from:
+Download and install the latest .NET SDK v9 from:
 
-https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 ## Installation
 
