@@ -2,9 +2,9 @@
 
 ## Dependencies
 
-Download and install the latest .NET SDK v9 from:
+Download and install the latest .NET SDK v8 from:
 
-https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 ## Installation
 
@@ -28,3 +28,7 @@ Optionally provide an input file:
 ```
 publish\ToyRobot.exe commands.txt
 ```
+
+## Testing
+
+To run all tests, execute the `Run Tests` GitHub Action under this project.
